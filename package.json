@@ -1,0 +1,21 @@
+{
+  "name": "antidetect-browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "https-proxy-agent": "^7.0.5",
+    "nodemon": "^3.1.7",
+    "puppeteer": "^23.5.0",
+    "puppeteer-page-proxy": "^1.3.0",
+    "screenz": "^1.0.0"
+  }
+}
